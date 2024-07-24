@@ -1,0 +1,252 @@
+{
+  "ver": "1.0.8",
+  "importer": "sprite-atlas",
+  "imported": true,
+  "uuid": "74455ef6-5531-4c8d-ab6f-583ffa162503",
+  "files": [
+    ".json"
+  ],
+  "subMetas": {
+    "4773b": {
+      "importer": "sprite-frame",
+      "uuid": "74455ef6-5531-4c8d-ab6f-583ffa162503@4773b",
+      "displayName": "",
+      "id": "4773b",
+      "name": "Goomba_0",
+      "userData": {
+        "importer": "sprite-frame",
+        "atlasUuid": "74455ef6-5531-4c8d-ab6f-583ffa162503",
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 0,
+        "trimX": 1,
+        "trimY": 1,
+        "width": 20,
+        "height": 24,
+        "rawWidth": 20,
+        "rawHeight": 24,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        },
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "422a9b40-3191-40f9-af97-71094b7c548b@6c48a"
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "eae3c": {
+      "importer": "sprite-frame",
+      "uuid": "74455ef6-5531-4c8d-ab6f-583ffa162503@eae3c",
+      "displayName": "",
+      "id": "eae3c",
+      "name": "Goomba_1",
+      "userData": {
+        "importer": "sprite-frame",
+        "atlasUuid": "74455ef6-5531-4c8d-ab6f-583ffa162503",
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 0,
+        "trimX": 23,
+        "trimY": 1,
+        "width": 20,
+        "height": 24,
+        "rawWidth": 20,
+        "rawHeight": 24,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        },
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "422a9b40-3191-40f9-af97-71094b7c548b@6c48a"
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5074e": {
+      "importer": "sprite-frame",
+      "uuid": "74455ef6-5531-4c8d-ab6f-583ffa162503@5074e",
+      "displayName": "",
+      "id": "5074e",
+      "name": "Goomba_2",
+      "userData": {
+        "importer": "sprite-frame",
+        "atlasUuid": "74455ef6-5531-4c8d-ab6f-583ffa162503",
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 0,
+        "trimX": 45,
+        "trimY": 1,
+        "width": 20,
+        "height": 24,
+        "rawWidth": 20,
+        "rawHeight": 24,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        },
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "422a9b40-3191-40f9-af97-71094b7c548b@6c48a"
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "88f41": {
+      "importer": "sprite-frame",
+      "uuid": "74455ef6-5531-4c8d-ab6f-583ffa162503@88f41",
+      "displayName": "",
+      "id": "88f41",
+      "name": "Goomba_3",
+      "userData": {
+        "importer": "sprite-frame",
+        "atlasUuid": "74455ef6-5531-4c8d-ab6f-583ffa162503",
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 0,
+        "trimX": 67,
+        "trimY": 1,
+        "width": 20,
+        "height": 24,
+        "rawWidth": 20,
+        "rawHeight": 24,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        },
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "422a9b40-3191-40f9-af97-71094b7c548b@6c48a"
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e4e46": {
+      "importer": "sprite-frame",
+      "uuid": "74455ef6-5531-4c8d-ab6f-583ffa162503@e4e46",
+      "displayName": "",
+      "id": "e4e46",
+      "name": "Goomba_4",
+      "userData": {
+        "importer": "sprite-frame",
+        "atlasUuid": "74455ef6-5531-4c8d-ab6f-583ffa162503",
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 0,
+        "trimX": 89,
+        "trimY": 1,
+        "width": 20,
+        "height": 24,
+        "rawWidth": 20,
+        "rawHeight": 24,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        },
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "422a9b40-3191-40f9-af97-71094b7c548b@6c48a"
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "atlasTextureName": "Goomba.png",
+    "format": 3,
+    "textureUuid": "422a9b40-3191-40f9-af97-71094b7c548b@6c48a",
+    "uuid": "74455ef6-5531-4c8d-ab6f-583ffa162503"
+  }
+}

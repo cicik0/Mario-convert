@@ -1,0 +1,27 @@
+{
+  "__version__": "1.0.6",
+  "layer": [
+    {
+      "name": "Default",
+      "value": 1
+    }
+  ],
+  "general": {
+    "designResolution": {
+      "fitHeight": false,
+      "fitWidth": false
+    }
+  },
+  "physics": {
+    "collisionGroups": [
+      {
+        "index": 1,
+        "name": "ENEMY"
+      }
+    ],
+    "collisionMatrix": {
+      "0": 3,
+      "1": 3
+    }
+  }
+}

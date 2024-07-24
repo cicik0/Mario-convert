@@ -1,0 +1,13 @@
+{
+  "name": "Mario_convert",
+  "uuid": "9977e677-2d90-4376-94d9-3b449f5242f2",
+  "creator": {
+    "version": "3.8.2",
+    "registry": {
+      "remote": {}
+    },
+    "dependencies": {
+      "plugin-import-2x": "1.1.10"
+    }
+  }
+}
